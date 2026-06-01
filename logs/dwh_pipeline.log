@@ -1,0 +1,19 @@
+2026-05-20 10:08:53,736 - INFO - Starting Data Warehouse Pipeline
+2026-05-20 10:08:53,765 - INFO - Database connected
+2026-05-20 10:08:53,807 - INFO - Loaded clean data: 1071 rows
+2026-05-20 10:08:53,812 - INFO - Feature engineering completed
+2026-05-20 10:08:53,845 - INFO - Star Schema created
+2026-05-20 10:08:53,870 - INFO - Dimensions loaded
+2026-05-20 10:10:36,848 - INFO - Starting Data Warehouse Pipeline
+2026-05-20 10:10:36,874 - INFO - Database connected
+2026-05-20 10:10:36,914 - INFO - Loaded clean data: 1071 rows
+2026-05-20 10:10:36,917 - INFO - Feature engineering completed
+2026-05-20 10:10:36,971 - INFO - Star Schema created
+2026-05-20 10:10:36,994 - INFO - Dimensions loaded
+2026-05-20 10:10:37,007 - INFO - Foreign keys merged
+2026-05-20 10:10:37,009 - INFO - Data validation completed
+2026-05-20 10:10:37,105 - INFO - Fact table loaded: 1071 rows
+2026-05-20 10:10:37,109 - INFO - Indexes created
+2026-05-20 10:10:37,122 - INFO - Staging cleaned
+2026-05-20 10:10:37,124 - INFO - Warehouse validation completed
+2026-05-20 10:10:37,124 - INFO - Pipeline completed successfully

@@ -1,0 +1,267 @@
+2026-05-20 14:51:09,768 - INFO - Starting Data Warehouse Modeling
+2026-05-20 14:51:09,807 - INFO - Database connected
+2026-05-20 14:51:10,001 - INFO - Star schema created
+2026-05-20 14:53:21,184 - INFO - Starting Data Warehouse Modeling
+2026-05-20 14:53:21,215 - INFO - Database connected
+2026-05-20 14:53:21,259 - INFO - Loaded clean data: 1465 rows
+2026-05-20 14:53:21,312 - INFO - Star schema created
+2026-05-20 14:53:30,073 - INFO - Starting Data Warehouse Modeling
+2026-05-20 14:53:30,100 - INFO - Database connected
+2026-05-20 14:53:30,142 - INFO - Loaded clean data: 1465 rows
+2026-05-20 14:53:30,159 - INFO - Star schema created
+2026-05-20 14:55:22,525 - INFO - Starting Data Warehouse Modeling
+2026-05-20 14:55:22,560 - INFO - Database connected
+2026-05-20 14:55:22,624 - INFO - Star schema created
+2026-05-20 14:56:19,760 - INFO - Starting Data Warehouse Modeling
+2026-05-20 14:56:19,791 - INFO - Database connected
+2026-05-20 14:56:19,853 - INFO - Star schema created
+2026-05-20 14:57:35,094 - INFO - Starting Data Warehouse Modeling
+2026-05-20 14:57:35,121 - INFO - Database connected
+2026-05-20 14:57:35,208 - INFO - Star schema created
+2026-05-20 15:00:05,873 - INFO - Starting Data Warehouse Modeling
+2026-05-20 15:00:05,902 - INFO - Database connected
+2026-05-20 15:00:05,961 - INFO - Star schema created
+2026-05-20 15:00:26,903 - INFO - Starting Data Warehouse Modeling
+2026-05-20 15:00:26,931 - INFO - Database connected
+2026-05-20 15:00:26,990 - INFO - Star schema created
+2026-05-20 15:01:26,166 - INFO - Starting Data Warehouse Modeling
+2026-05-20 15:01:26,195 - INFO - Database connected
+2026-05-20 15:01:26,366 - INFO - Star schema created
+2026-05-20 15:01:26,396 - INFO - Dimensions loaded
+2026-05-20 15:02:27,034 - INFO - Starting Data Warehouse Modeling
+2026-05-20 15:02:27,065 - INFO - Database connected
+2026-05-20 15:02:27,160 - INFO - Star schema created
+2026-05-20 15:02:27,187 - INFO - Dimensions loaded
+2026-05-20 15:02:27,200 - INFO - Foreign keys merged
+2026-05-20 15:02:27,321 - INFO - Fact table loaded: 1390 rows
+2026-05-20 15:02:27,325 - INFO - Indexes created
+2026-05-20 15:02:27,327 - INFO - Data quality check completed
+2026-05-20 15:02:27,327 - INFO - Pipeline completed
+2026-05-21 12:30:39,215 - INFO - Starting Data Warehouse Modeling
+2026-05-21 12:30:39,268 - INFO - Database connected
+2026-05-21 12:30:39,435 - INFO - Star schema created
+2026-05-21 12:30:39,482 - INFO - Dimensions loaded
+2026-05-21 12:30:39,498 - INFO - Foreign keys merged
+2026-05-21 12:30:39,641 - INFO - Fact table loaded: 1438 rows
+2026-05-21 12:30:39,646 - INFO - Indexes created
+2026-05-21 12:30:39,647 - INFO - Data quality check completed
+2026-05-21 12:30:39,647 - INFO - Pipeline completed
+2026-05-22 10:42:40,699 - INFO - Starting Data Warehouse Modeling
+2026-05-22 10:42:40,765 - INFO - Database connected
+2026-05-22 10:43:49,446 - INFO - Starting Data Warehouse Modeling
+2026-05-22 10:43:49,507 - INFO - Database connected
+2026-05-22 10:45:24,426 - INFO - Starting Data Warehouse Modeling
+2026-05-22 10:45:24,488 - INFO - Database connected
+2026-05-22 11:16:49,573 - INFO - Starting Data Warehouse Modeling
+2026-05-22 11:16:49,635 - INFO - Database connected
+2026-05-22 11:17:24,965 - INFO - Starting Data Warehouse Modeling
+2026-05-22 11:17:25,026 - INFO - Database connected
+2026-05-22 11:17:25,189 - INFO - Star schema created
+2026-05-22 11:17:25,258 - INFO - Dimensions loaded
+2026-05-22 11:17:25,291 - INFO - Foreign keys merged
+2026-05-22 11:17:25,607 - INFO - Fact table loaded: 1438 rows
+2026-05-22 11:17:25,618 - INFO - Indexes created
+2026-05-22 11:17:25,619 - INFO - Data quality check completed
+2026-05-22 11:17:25,620 - INFO - Pipeline completed
+2026-05-28 23:31:34,132 - INFO - Starting Data Warehouse Modeling
+2026-05-28 23:31:34,185 - INFO - Database connected
+2026-05-28 23:33:04,494 - INFO - Starting Data Warehouse Modeling
+2026-05-28 23:33:04,549 - INFO - Database connected
+2026-05-28 23:35:38,070 - INFO - Starting Data Warehouse Modeling
+2026-05-28 23:35:38,126 - INFO - Database connected
+2026-05-28 23:37:54,956 - INFO - Starting Data Warehouse Modeling
+2026-05-28 23:37:55,012 - INFO - Database connected
+2026-05-28 23:38:46,737 - INFO - Starting Data Warehouse Modeling
+2026-05-28 23:38:46,794 - INFO - Database connected
+2026-05-29 09:27:51,090 - INFO - Starting Data Warehouse Modeling
+2026-05-29 09:27:51,191 - INFO - Database connected
+2026-05-29 09:38:42,284 - INFO - Starting Data Warehouse Modeling
+2026-05-29 09:38:42,368 - INFO - Database connected
+2026-05-29 09:41:56,001 - INFO - Starting Data Warehouse Modeling
+2026-05-29 09:41:56,075 - INFO - Database connected
+2026-05-29 10:54:43,196 - INFO - Starting Data Warehouse Modeling
+2026-05-29 10:54:43,407 - INFO - Database connected
+2026-05-29 10:57:14,871 - INFO - Starting Data Warehouse Modeling
+2026-05-29 10:57:14,942 - INFO - Database connected
+2026-05-29 11:00:22,739 - INFO - Starting Data Warehouse Modeling
+2026-05-29 11:00:22,795 - INFO - Database connected
+2026-05-29 11:26:17,055 - INFO - Starting Data Warehouse Modeling
+2026-05-29 11:26:17,112 - INFO - Database connected
+2026-05-29 11:33:42,663 - INFO - Starting Data Warehouse Modeling
+2026-05-29 11:33:42,718 - INFO - Database connected
+2026-05-29 11:35:43,768 - INFO - Starting Data Warehouse Modeling
+2026-05-29 11:35:43,821 - INFO - Database connected
+2026-05-29 11:36:54,608 - INFO - Starting Data Warehouse Modeling
+2026-05-29 11:36:54,665 - INFO - Database connected
+2026-05-29 11:45:28,522 - INFO - Starting Data Warehouse Modeling
+2026-05-29 11:45:28,578 - INFO - Database connected
+2026-05-29 11:45:28,701 - INFO - Star schema created
+2026-05-29 11:45:28,756 - INFO - Dimensions loaded
+2026-05-29 11:45:28,781 - INFO - Foreign keys merged
+2026-05-29 11:45:29,049 - INFO - Fact table loaded: 1438 rows
+2026-05-29 11:45:29,067 - INFO - Indexes created
+2026-05-29 11:45:29,069 - INFO - Pipeline completed
+2026-05-29 11:46:20,963 - INFO - Starting Data Warehouse Modeling
+2026-05-29 11:46:21,018 - INFO - Database connected
+2026-05-29 11:46:21,133 - INFO - Star schema created
+2026-05-29 11:46:21,184 - INFO - Dimensions loaded
+2026-05-29 11:46:21,202 - INFO - Foreign keys merged
+2026-05-29 11:46:21,471 - INFO - Fact table loaded: 1438 rows
+2026-05-29 11:46:21,480 - INFO - Indexes created
+2026-05-29 11:46:21,482 - INFO - Pipeline completed
+2026-05-29 12:06:29,014 - INFO - Starting Data Warehouse Modeling
+2026-05-29 12:06:29,069 - INFO - Database connected
+2026-05-29 12:06:29,233 - INFO - Star schema created
+2026-05-29 12:06:29,285 - INFO - Dimensions loaded
+2026-05-29 12:06:29,303 - INFO - Foreign keys merged
+2026-05-29 12:06:29,569 - INFO - Fact table loaded: 1438 rows
+2026-05-29 12:06:29,577 - INFO - Indexes created
+2026-05-29 12:06:29,579 - INFO - Pipeline completed
+2026-05-30 11:23:50,461 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:23:50,569 - INFO - Database connected
+2026-05-30 11:23:50,920 - INFO - Star schema created
+2026-05-30 11:23:51,042 - INFO - Dimensions loaded
+2026-05-30 11:23:51,090 - INFO - Foreign keys merged
+2026-05-30 11:27:51,259 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:27:51,347 - INFO - Database connected
+2026-05-30 11:27:51,606 - INFO - Star schema created
+2026-05-30 11:27:51,695 - INFO - Dimensions loaded
+2026-05-30 11:27:51,719 - INFO - Foreign keys merged
+2026-05-30 11:28:45,889 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:28:45,968 - INFO - Database connected
+2026-05-30 11:28:46,172 - INFO - Star schema created
+2026-05-30 11:28:46,253 - INFO - Dimensions loaded
+2026-05-30 11:28:46,275 - INFO - Foreign keys merged
+2026-05-30 11:34:45,865 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:34:45,966 - INFO - Database connected
+2026-05-30 11:34:46,248 - INFO - Star schema created
+2026-05-30 11:34:46,346 - INFO - Dimensions loaded
+2026-05-30 11:34:46,392 - INFO - Foreign keys merged
+2026-05-30 11:35:31,193 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:35:31,277 - INFO - Database connected
+2026-05-30 11:35:31,584 - INFO - Star schema created
+2026-05-30 11:35:31,663 - INFO - Dimensions loaded
+2026-05-30 11:35:31,687 - INFO - Foreign keys merged
+2026-05-30 11:36:51,273 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:36:51,386 - INFO - Database connected
+2026-05-30 11:36:51,599 - INFO - Star schema created
+2026-05-30 11:36:51,706 - INFO - Dimensions loaded
+2026-05-30 11:36:51,742 - INFO - Foreign keys merged
+2026-05-30 11:37:05,917 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:37:05,987 - INFO - Database connected
+2026-05-30 11:37:06,219 - INFO - Star schema created
+2026-05-30 11:37:06,304 - INFO - Dimensions loaded
+2026-05-30 11:37:06,331 - INFO - Foreign keys merged
+2026-05-30 11:38:56,563 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:38:56,641 - INFO - Database connected
+2026-05-30 11:38:56,912 - INFO - Star schema created
+2026-05-30 11:38:56,986 - INFO - Dimensions loaded
+2026-05-30 11:38:57,011 - INFO - Foreign keys merged
+2026-05-30 11:39:45,635 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:39:45,702 - INFO - Database connected
+2026-05-30 11:39:45,960 - INFO - Star schema created
+2026-05-30 11:39:46,025 - INFO - Dimensions loaded
+2026-05-30 11:39:46,044 - INFO - Foreign keys merged
+2026-05-30 11:40:22,163 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:40:22,241 - INFO - Database connected
+2026-05-30 11:40:22,485 - INFO - Star schema created
+2026-05-30 11:40:22,558 - INFO - Dimensions loaded
+2026-05-30 11:40:22,578 - INFO - Foreign keys merged
+2026-05-30 11:51:03,619 - INFO - Starting Data Warehouse Modeling
+2026-05-30 11:51:03,727 - INFO - Database connected
+2026-05-30 11:51:04,058 - INFO - Star schema created
+2026-05-30 11:51:04,142 - INFO - Dimensions loaded
+2026-05-30 11:51:04,180 - INFO - Foreign keys merged
+2026-05-30 12:07:57,654 - INFO - Starting Data Warehouse Modeling
+2026-05-30 12:07:57,780 - INFO - Database connected
+2026-05-30 12:07:58,039 - INFO - Star schema created
+2026-05-30 12:07:58,144 - INFO - Dimensions loaded
+2026-05-30 12:07:58,174 - INFO - Foreign keys merged
+2026-05-30 12:15:57,688 - INFO - Starting Data Warehouse Modeling
+2026-05-30 12:15:57,788 - INFO - Database connected
+2026-05-30 12:15:58,172 - INFO - Star schema created
+2026-05-30 12:15:58,298 - INFO - Dimensions loaded
+2026-05-30 12:15:58,339 - INFO - Foreign keys merged
+2026-05-30 12:18:34,339 - INFO - Starting Data Warehouse Modeling
+2026-05-30 12:18:34,440 - INFO - Database connected
+2026-05-30 12:18:34,755 - INFO - Star schema created
+2026-05-30 12:18:34,870 - INFO - Dimensions loaded
+2026-05-30 12:18:34,903 - INFO - Foreign keys merged
+2026-05-30 13:20:28,427 - INFO - Starting Data Warehouse Modeling
+2026-05-30 13:20:28,662 - INFO - Database connected
+2026-05-30 13:20:29,021 - INFO - Star schema created
+2026-05-30 13:20:29,162 - INFO - Dimensions loaded
+2026-05-30 13:20:29,185 - INFO - Foreign keys merged
+2026-05-30 13:31:23,742 - INFO - Starting Data Warehouse Modeling
+2026-05-30 13:31:23,799 - INFO - Database connected
+2026-05-30 13:31:23,931 - INFO - Star schema created
+2026-05-30 13:31:23,985 - INFO - Dimensions loaded
+2026-05-30 13:31:24,011 - INFO - Foreign keys merged
+2026-05-30 13:31:24,311 - INFO - Fact table loaded: 1500 rows
+2026-05-30 13:31:24,322 - INFO - Indexes created
+2026-05-30 13:31:24,326 - INFO - Data quality check completed
+2026-05-30 13:31:24,327 - INFO - Pipeline completed
+2026-05-30 13:49:33,681 - INFO - Starting Data Warehouse Modeling
+2026-05-30 13:49:33,756 - INFO - Database connected
+2026-05-30 13:49:34,031 - INFO - Star schema created
+2026-05-30 13:49:34,122 - INFO - Dimensions loaded
+2026-05-30 13:49:34,158 - INFO - Foreign keys merged
+2026-05-30 13:49:34,435 - INFO - Fact table loaded: 1500 rows
+2026-05-30 13:49:34,449 - INFO - Indexes created
+2026-05-30 13:49:34,451 - INFO - Data quality check completed
+2026-05-30 13:49:34,451 - INFO - Pipeline completed
+2026-05-30 13:53:28,331 - INFO - Starting Data Warehouse Modeling
+2026-05-30 13:53:28,391 - INFO - Database connected
+2026-05-30 13:53:28,664 - INFO - Star schema created
+2026-05-30 13:53:28,729 - INFO - Dimensions loaded
+2026-05-30 13:53:28,747 - INFO - Foreign keys merged
+2026-05-30 13:53:29,047 - INFO - Fact table loaded: 1500 rows
+2026-05-30 13:53:29,057 - INFO - Indexes created
+2026-05-30 13:53:29,059 - INFO - Data quality check completed
+2026-05-30 13:53:29,059 - INFO - Pipeline completed
+2026-05-30 14:14:27,319 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:14:27,381 - INFO - Database connected
+2026-05-30 14:14:27,634 - INFO - Star schema created
+2026-05-30 14:14:27,694 - INFO - Dimensions loaded
+2026-05-30 14:14:27,719 - INFO - Foreign keys merged
+2026-05-30 14:14:28,015 - INFO - Fact table loaded: 1500 rows
+2026-05-30 14:14:28,029 - INFO - Indexes created
+2026-05-30 14:14:28,032 - INFO - Data quality check completed
+2026-05-30 14:14:28,032 - INFO - Pipeline completed
+2026-05-30 14:34:26,035 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:34:26,125 - INFO - Database connected
+2026-05-30 14:34:26,298 - INFO - Star schema created
+2026-05-30 14:34:26,371 - INFO - Dimensions loaded
+2026-05-30 14:34:26,406 - INFO - Foreign keys merged
+2026-05-30 14:34:26,732 - INFO - Fact table loaded: 1500 rows
+2026-05-30 14:34:26,742 - INFO - Indexes created
+2026-05-30 14:34:26,744 - INFO - Data quality check completed
+2026-05-30 14:34:26,744 - INFO - Pipeline completed
+2026-05-30 14:52:00,962 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:52:01,063 - INFO - Database connected
+2026-05-30 14:52:01,501 - INFO - Star schema created
+2026-05-30 14:52:01,587 - INFO - Dimensions loaded
+2026-05-30 14:52:01,633 - INFO - Foreign keys merged
+2026-05-30 14:52:01,966 - INFO - Fact table loaded: 1500 rows
+2026-05-30 14:52:01,981 - INFO - Indexes created
+2026-05-30 14:52:01,983 - INFO - Data quality check completed
+2026-05-30 14:52:01,983 - INFO - Pipeline completed
+2026-05-30 14:52:51,140 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:52:51,200 - INFO - Database connected
+2026-05-30 14:53:01,957 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:53:02,024 - INFO - Database connected
+2026-05-30 14:53:33,535 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:53:33,591 - INFO - Database connected
+2026-05-30 14:53:48,514 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:53:48,574 - INFO - Database connected
+2026-05-30 14:54:00,654 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:54:00,714 - INFO - Database connected
+2026-05-30 14:54:28,680 - INFO - Starting Data Warehouse Modeling
+2026-05-30 14:54:28,742 - INFO - Database connected
+2026-05-30 14:54:28,929 - INFO - Star schema created
+2026-05-30 14:54:28,983 - INFO - Dimensions loaded
+2026-05-30 14:54:29,002 - INFO - Foreign keys merged
+2026-05-30 14:54:29,302 - INFO - Fact table loaded: 1500 rows
+2026-05-30 14:54:29,310 - INFO - Indexes created
+2026-05-30 14:54:29,312 - INFO - Data quality check completed
+2026-05-30 14:54:29,312 - INFO - Pipeline completed
