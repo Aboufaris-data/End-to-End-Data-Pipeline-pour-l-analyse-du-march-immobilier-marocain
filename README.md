@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏠 End-to-End Data Pipeline — Marché Immobilier Marocain
 
 > A complete data engineering pipeline for analyzing the Moroccan real estate market — from raw scraping to Power BI dashboards — built on PostgreSQL, Python, and a star-schema Data Warehouse.
