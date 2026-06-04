@@ -212,6 +212,7 @@ df_dim_property = pd.read_sql(
 )
 
 df["prix_m2"] = df["prix"] / df["surface"]
+df["prix_m2"].round(2)
 
 # MERGE FOREIGN KEYS
 

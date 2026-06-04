@@ -36,7 +36,6 @@ print("Fichier CSV trouvé")
 
 # Lire CSV
 
-
 try:
     df = pd.read_csv(file_path)
 
